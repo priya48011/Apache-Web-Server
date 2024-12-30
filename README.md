@@ -42,6 +42,10 @@ Status of Apache Web Server: Active <br/><br/>
 <br />
 <br />
 Apache2 Successfully Running: Default Welcome Page  <br/><br/>
+<img src="https://imgur.com/LV1auDk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+ <br /> 
+Firewall Status  <br/><br/>
 <img src="https://imgur.com/81lyv8K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  <br /> 
